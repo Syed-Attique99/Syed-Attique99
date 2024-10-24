@@ -1,16 +1,20 @@
-## Hi there 👋
+Hi there! 👋 I'm S M Attique ur Rehman!
+🎓 Computer Science Student at FAST NUCES, passionate about technology and innovation.
+🌐 Currently diving into the exciting world of Web Development.
+🤖 A growing A.I. Enthusiast, exploring the vast potential of artificial intelligence in transforming industries.
 
-<!--
-**Syed-Attique99/Syed-Attique99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 Technologies & Tools:
+Languages: HTML, CSS, JavaScript, Python, C++
+Frameworks: React, Node.js (Learning)
+A.I. Tools: TensorFlow, PyTorch (Learning)
+Other Skills: Git, GitHub, SQL
+🌱 Currently Learning:
+Frontend: React.js, Tailwind CSS
+Backend: Node.js, Express.js
+A.I.: Machine Learning basics, Neural Networks
+💡 Interests:
+Web Development: Building responsive, dynamic web applications
+Artificial Intelligence: Machine Learning, Natural Language Processing
+Open Source: Always excited to contribute and collaborate!
+📫 How to reach me:
+Email: k230714@nu.edu.pk
